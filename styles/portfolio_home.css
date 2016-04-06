@@ -29,6 +29,11 @@ nav ul {
   margin-top: 20px;
 }
 
+#tumblr {
+  position: relative;
+  left: 60px;
+}
+
 a {
   font-family: arial;
   font-size: x-large;
