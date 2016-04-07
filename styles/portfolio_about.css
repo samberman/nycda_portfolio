@@ -1,0 +1,47 @@
+* {
+  background-color: brown;
+}
+
+header {
+  color: white;
+  font-family: arial;
+  width: 60%;
+  display: inline-block;
+  text-align: center;
+}
+
+#column1 {
+  display:  inline-block;
+  float: right;
+}
+
+nav {
+  display: inline-block;
+  margin-top: 20px;
+  padding-top: 50px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  font-family: arial;
+  font-size: x-large;
+  text-decoration: none;
+  color: grey;
+}
+
+a:hover {
+  color: white;
+}
+
+#column2 {
+  font-family: arial;
+  color: white;
+  width: 60%
+}
+
+p {
+  padding-left: 150px;
+}
